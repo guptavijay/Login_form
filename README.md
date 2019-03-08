@@ -1,2 +1,2 @@
 # Login_form
-Basic Angularjs Login form
+Login form using Angularjs.
